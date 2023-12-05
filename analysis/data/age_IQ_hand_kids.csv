@@ -1,0 +1,71 @@
+WorkerID,Age,Gender,Affected limbs,Dominant hand,BPVS,Ravens
+OC1,6.26,Male,"RA, LA, RF, LF",Right,97,125
+OC3,8.36,Female,LA,Right,88,115
+OC4,5.94,Female,"RA, LA",Right,100,100
+OC5,5.48,Female,LA,Right,113,115
+OC8,8.23,Male,LA,Right,116,130
+OC13,9.22,Male,RA,Left,99,85
+OC14,7.16,Female,"RA, LA",Right,99,115
+OC15,9.98,Female,LA,Right,113,125
+OC16,10.72,Male,RA,Left,106,95
+OC17,5.14,Female,LA,Right,109,110
+OC18,9.74,Female,LA,Right,89,110
+OC19,5.69,Female,RA,Left,106,125
+OC20,6.72,Male,"RA, LA",Right,108,100
+OC21,9.80,Male,LA,Right,126,110
+OC22,7.16,Female,RA,Left,101,105
+OC26,7.40,Male,RA,Left,102,115
+OC27,10.18,Male,"RA, LA",Right,,
+OC28,7.33,Female,LA,Right,100,130
+OC29,6.16,Male,RA,Left,96,115
+OC30,7.67,Male,"RA, LA",Left,,
+OC32,5.08,Male,RA,Left,119,100
+OC34,8.48,Female,LA,Right,,
+OC37,10.64,Female,LA,Right,,
+OC38,10.59,Female,RA,Left,,
+OC40,8.65,Male,"LA, LF",Right,118,135
+TC1,10.28,Female,,Right,106,105
+TC2,6.98,Male,,Right,100,110
+TC3,9.13,Male,,Right,104,125
+TC4,7.82,Male,,Left,127,125
+TC6,10.19,Female,,Right,125,100
+TC7,8.10,Male,,Right,126,100
+TC8,10.30,Female,,Right,128,120
+TC9,7.43,Male,,Right,134,130
+TC11,8.52,Male,,Right,91,90
+TC12,5.47,Male,,Left,111,115
+TC15,10.56,Female,,Right,75,100
+TC16,6.65,Male,,Right,,
+TC17,9.36,Male,,Right,102,105
+TC20,10.38,Female,,Right,103,105
+TC21,6.97,Male,,Right,98,130
+TC22,5.32,Female,,Right,100,120
+TC23,8.90,Male,,Right,96,120
+TC24,5.61,Female,,Right,111,130
+TC26,9.66,Female,,Right,106,100
+TC29,9.71,Female,,Right,107,120
+TC30,6.31,Male,,Right,115,115
+TC31,8.18,Male,,Right,112,105
+TC32,10.22,Female,,Left,101,95
+TC35,7.54,Male,,Right,120,125
+TC37,7.44,Male,,Right,100,100
+TC43,8.92,Male,,Right,,
+TC44,6.12,Male,,Right,,
+TC46,6.97,Female,,Right,100,115
+TC48,9.52,Female,,Right,121,120
+TC49,7.19,Male,,Right,122,130
+TC61,10.10,Female,,Ambidextrous ,115,120
+TC52,8.16,Male,,Right,128,105
+TC53,9.26,Male,,Right,,
+TC54,8.41,Female,,Right,85,105
+TC55,7.81,Female,,Right,80,95
+TC56,5.03,Female,,Right,104,110
+TC59,8.98,Male,,Right,,
+TC62,7.30,Male,,Right,,
+TC64,9.67,Female,,Right,,
+TC65,7.18,Male,,Right,101,80
+TC66,5.13,Female,,Right,,
+TC68,7.40,Male,,Right,113,100
+TC70,5.13,Male,,Right,118,100
+TC71,5.79,Female,,Right,109,125
+TC72,5.02,Female,,Right,,
